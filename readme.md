@@ -1,11 +1,9 @@
 ### Hey ! ✌️
 I'm a French developer currently in training "[Web and web mobile developer](https://www.afpa.fr/formation-qualifiante/developpeur-logiciel)" at [AFPA in niort](https://www.afpa.fr/centre/centre-de-niort) to get a lv.5 professional qualification ([According to French standards](https://www.enseignementsup-recherche.gouv.fr/cid72872/nomenclature-relative-au-niveau-de-diplome.html)).
 
-I'm active on discord, do not hesitate to join [my server](soon) if you want to chat with me!
-
 <!--
+I'm active on discord, do not hesitate to join [my server](soon) if you want to chat with me!
 **Angelisium/angelisium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
