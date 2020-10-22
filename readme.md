@@ -1,7 +1,7 @@
 ### Hey ! ✌️
 I'm a French developer currently in training "[Web and web mobile developer](https://www.afpa.fr/formation-qualifiante/developpeur-logiciel)" at [AFPA in niort](https://www.afpa.fr/centre/centre-de-niort) to get a lv.5 professional qualification ([According to French standards](https://www.enseignementsup-recherche.gouv.fr/cid72872/nomenclature-relative-au-niveau-de-diplome.html)).
 
-Find me on : [gitlab](https://gitlab.com/Angelisium) - [codepen](https://codepen.io/angelisium) - [StackOverflow](https://stackoverflow.com/users/14490630/angelisium) - [Discord](https://discord.gg/adV4gjg) (アレチ#1997)
+Find me on : [gitlab](https://gitlab.com/Angelisium) - [codepen](https://codepen.io/angelisium) - [StackOverflow](https://stackoverflow.com/users/14490630/angelisium) - [Discord](https://discord.gg/QBbb8g4) (アレチ#1997)
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/angelisium)
 
