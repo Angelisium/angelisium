@@ -1,5 +1,5 @@
 ### Hey ! ✌️
-I'm a French developer <3
+I'm a [French developer](./developer.md), [Ethical Hacker](./ethical_hacker.md) & [Reverse Engineer](./reverse_engineer.md) <3
 
 Find me on : [gitlab](https://gitlab.com/Angelisium) - [codepen](https://codepen.io/angelisium) - [StackOverflow](https://stackoverflow.com/users/14490630/angelisium) - [Discord](https://discord.gg/QBbb8g4) (Angelisium#1997)
 
