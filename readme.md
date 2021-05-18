@@ -5,6 +5,8 @@ Individual contents that I have produced or contributed to and I assume (+/-) ca
 
 In [Educations](./educations/.md) you will find a quick debriefing about my educational background, trainings, etc.
 
+In the [Technology](./technology/.md) section, you will find a non-exhaustive list of all the programming, markup and stylesheet languages, libraries and frameworks I have already used, with a reference to where they were used or an use example.
+
 You can find me on : [gitlab](https://gitlab.com/Angelisium) - [codepen](https://codepen.io/angelisium) - [StackOverflow](https://stackoverflow.com/users/14490630/angelisium) - [Discord](https://discord.gg/QBbb8g4) (Angelisium#1997)
 
 [![stats](https://github-readme-stats.vercel.app/api?username=Angelisium&&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
