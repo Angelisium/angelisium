@@ -1,0 +1,9 @@
+# Developer
+
+Yes, it's official 🥳
+
+I'm officially qualified to be a web & web mobile developer since 1 March 2021 by the French Ministry of Labour, Employment and Integration with a professional credential « Web and Web Mobile Developer », a level 5 diploma of the European Qualification Framework.
+
+### My most representative works as a web developer (soon)
+ - My Personnal website ([exis.ovh](https://exis.ovh/)) : bla bla blabla (under redevelopment)
+ - hexaMap ([exis/hexaMap](https://exis.ovh/hexaMap/)) : Un petit projet simple, pour démontrer comment gérer les déplacements de façon simple sur une carte composée d'hexagone en JavaScript. L'objectif était principalement de mettre en avant le caractère récursif d'une action de mouvement et de l'étayer avec un exemple d'algorithme, simple, exploitant cette récursion afin de pouvoir l'appliquer dans n'importe quels langages. (la version commentée a malheureusement été perdue)
