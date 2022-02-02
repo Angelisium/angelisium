@@ -3,7 +3,7 @@ I'm Alexis A.K.A. Angelisium, a 24 years old [French developer](./developer/.md)
 
 Individual contents that I have produced or contributed to and I assume (+/-) can be found under [Projects](./projects/.md).
 
-In the [Technology](./technology/.md) section, you will find a non-exhaustive list of all the programming, markup and stylesheet languages, libraries and frameworks I have already used, with a reference to where they were used or an use example.
+In the [Technology](./technology/.md) section, you will find a non-exhaustive list of all the programming, markup and stylesheet languages, libraries and frameworks I have already used.
 
 You can find me on : [gitlab](https://gitlab.com/Angelisium) - [codepen](https://codepen.io/angelisium) - [StackOverflow](https://stackoverflow.com/users/14490630/angelisium) - [Discord](https://discord.gg/QBbb8g4) (Angelisium#1997)
 
