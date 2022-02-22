@@ -7,4 +7,4 @@ In the [Technology](./technology/.md) section, you will find a non-exhaustive li
 
 You can find me on : [gitlab](https://gitlab.com/Angelisium) - [codepen](https://codepen.io/angelisium) - [CodeSandbox](https://codesandbox.io/u/Angelisium) - [StackOverflow](https://stackoverflow.com/users/14490630/angelisium) - [Discord](https://discord.gg/QBbb8g4) (Angelisium#1997)
 
-[![stats](https://github-readme-stats.vercel.app/api?username=Angelisium&&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&theme=vue)]()
+[![stats](https://github-readme-stats.vercel.app/api?username=Angelisium&&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&theme=vue)](https://github.com/Angelisium)
