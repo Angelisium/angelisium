@@ -1,4 +1,8 @@
 ### Hey ! ✌️
+
+> **Note**   
+> I currently learning [SolidJS](https://www.solidjs.com/), [leptos](https://github.com/gbj/leptos) and [Svelte](https://svelte.dev/) in self-taught on my free time.
+
 I'm Alexis A.K.A. Angelisium, a 25 years old [French developer](./developer/.md), [Ethical Hacker](./ethical_hacker/.md) & [Reverse Engineer](./reverse_engineer/.md) <3
 
 Individual contents that I have produced or contributed to and I assume (+/-) can be found under [Projects](./projects/.md).
