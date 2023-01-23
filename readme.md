@@ -17,8 +17,6 @@ already used.
 You can find me on : [Github][S1]  -  [GitLab][S2] - [CodePen][S3] - [npm][S4] -
 [CodeSandbox][S5] - [StackOverflow][S6] - [Discord][S7] (Angelisium#1997)
 
-<br><hr><br>
-
 [![stats][GitHubReadmeStats]][S1]
 
 <!-----------------------------------------------------------------------------
