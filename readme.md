@@ -1,14 +1,52 @@
 ### Hey ! ✌️
 
 > **Note**   
-> I currently learning [SolidJS](https://www.solidjs.com/), [leptos](https://github.com/gbj/leptos) and [Svelte](https://svelte.dev/) in self-taught on my free time.
+> I currently learning [SolidJS][SolidJS], [leptos][leptos] and [Svelte][Svelte]
+> in self-taught on my free time.
 
-I'm Alexis A.K.A. Angelisium, a 25 years old [French developer](./developer/.md), [Ethical Hacker](./ethical_hacker/.md) & [Reverse Engineer](./reverse_engineer/.md) <3
+I'm   Alexis  A.K.A.  Angelisium,  a   25  years   old   [French developer][P1],
+[Ethical Hacker][P2] & [Reverse Engineer][P3] <3
 
-Individual contents that I have produced or contributed to and I assume (+/-) can be found under [Projects](./projects/.md).
+Individual contents  that I have  produced or contributed  to and I assume (+/-)
+can be found under [Projects][P4].
 
-In the [Technology](./technology/.md) section, you will find a non-exhaustive list of all the programming, markup and stylesheet languages, libraries and frameworks I have already used.
+In the [Technology][P5] section, you will  find a non-exhaustive list of all the
+programming, markup  and stylesheet  languages, libraries  and frameworks I have
+already used.
 
-You can find me on : [npm](https://www.npmjs.com/~angelisium) - [gitlab](https://gitlab.com/Angelisium) - [codepen](https://codepen.io/angelisium) - [CodeSandbox](https://codesandbox.io/u/Angelisium) - [StackOverflow](https://stackoverflow.com/users/14490630/angelisium) - [Discord](https://discord.gg/QBbb8g4) (Angelisium#1997)
+You can find me on : [Github][S1]  -  [GitLab][S2] - [CodePen][S3] - [npm][S4] -
+[CodeSandbox][S5] - [StackOverflow][S6] - [Discord][S7] (Angelisium#1997)
 
-[![stats](https://github-readme-stats.vercel.app/api?username=Angelisium&&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&theme=vue)](https://github.com/Angelisium)
+<br><hr><br>
+
+[![stats][GitHubReadmeStats]][S1] [![langs][GitHubReadmeLangs]][S1]
+
+<!-----------------------------------------------------------------------------
+ ! Page links                                                                 -
+ !----------------------------------------------------------------------------->
+[P1]: /page/developer.md
+[P2]: /page/ethical-hacker.md
+[P3]: /page/reverse-engineer.md
+[P4]: /page/projects.md
+[P5]: /page/technology.md
+
+<!-----------------------------------------------------------------------------
+ ! Social media links                                                         -
+ !----------------------------------------------------------------------------->
+[S1]: https://github.com/Angelisium
+[S2]: https://gitlab.com/Angelisium
+[S3]: https://codepen.io/angelisium
+[S4]: https://www.npmjs.com/~angelisium
+[S5]: https://codesandbox.io/u/Angelisium
+[S6]: https://stackoverflow.com/users/14490630/angelisium
+[S7]: https://discord.gg/W9FTvaPD8b
+
+<!-----------------------------------------------------------------------------
+ ! Other links :                                                              -
+ !----------------------------------------------------------------------------->
+[SolidJS]: https://www.solidjs.com/
+[leptos]: https://github.com/gbj/leptos
+[Svelte]: https://svelte.dev/
+
+[GitHubReadmeStats]: https://github-readme-stats.vercel.app/api?username=Angelisium&&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&theme=transparent
+[GitHubReadmeLangs]: https://github-readme-stats.vercel.app/api/top-langs/?username=Angelisium&langs_count=10&theme=transparent&layout=compact
