@@ -19,7 +19,7 @@ You can find me on : [Github][S1]  -  [GitLab][S2] - [CodePen][S3] - [npm][S4] -
 
 <br><hr><br>
 
-[![stats][GitHubReadmeStats]][S1] [![langs][GitHubReadmeLangs]][S1]
+[![stats][GitHubReadmeStats]][S1]
 
 <!-----------------------------------------------------------------------------
  ! Page links                                                                 -
@@ -49,4 +49,3 @@ You can find me on : [Github][S1]  -  [GitLab][S2] - [CodePen][S3] - [npm][S4] -
 [Svelte]: https://svelte.dev/
 
 [GitHubReadmeStats]: https://github-readme-stats.vercel.app/api?username=Angelisium&&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&theme=transparent
-[GitHubReadmeLangs]: https://github-readme-stats.vercel.app/api/top-langs/?username=Angelisium&langs_count=10&theme=transparent&layout=compact
