@@ -4,8 +4,7 @@
 > I currently learning [SolidJS][SolidJS], [leptos][leptos] and [Svelte][Svelte]
 > in self-taught on my free time.
 
-I'm   Alexis  A.K.A.  Angelisium,  a   25  years   old   [French developer][P1],
-[Ethical Hacker][P2] & [Reverse Engineer][P3] <3
+I'm   Alexis  A.K.A.  Angelisium,  a   25  years   old [French developer][P1] <3
 
 Individual contents  that I have  produced or contributed  to and I assume (+/-)
 can be found under [Projects][P4].
