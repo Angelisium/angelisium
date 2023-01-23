@@ -1,8 +1,15 @@
+> **Note**   
+> I'm not a proactive hacker, I just keep up with the latest cyber security news
+> ; and I re-use this knowledge during the  development and maintenance phase of
+> my personal projects.
+
 # Ethical Hacker (soon)
 
 why => To secure my various works as well as possible
 
-what => Brute Force, SQL injection, cross-site scripting (XSS), Local File Inclusion (LFI), Remote File Inclusion (RFI), Backdoor, Full Path Disclosure (FDP)
+what => Brute Force, SQL injection, cross-site scripting (XSS),
+Local File Inclusion (LFI), Remote File Inclusion (RFI), Backdoor,
+Full Path Disclosure (FDP), etc
 
 how => soon
  - https://fr.wikipedia.org/wiki/Attaque_par_force_brute
