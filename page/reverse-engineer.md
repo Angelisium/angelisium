@@ -1,6 +1,6 @@
 > **Note**   
-> I'm not a proactive hacker, I just keep up with the latest cyber security news
-> ; and I re-use this knowledge during the  development and maintenance phase of
+> I'm not a proactive  reverse  engineer, I just keep up with the  latest news ;
+> and I re-use  this knowledge during  the development  and maintenance phase of
 > my personal projects.
 
 # Reverse Engineer (soon)
