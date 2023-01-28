@@ -14,7 +14,8 @@ programming, markup  and stylesheet  languages, libraries  and frameworks I have
 already used.
 
 You can find me on : [Github][S1]  -  [GitLab][S2] - [CodePen][S3] - [npm][S4] -
-[CodeSandbox][S5] - [StackOverflow][S6] - [Discord][S7] (Angelisium#1997)
+[Packagist][S5]  -  [CodeSandbox][S6]  -   [StackOverflow][S7]  -  [Discord][S8]
+(Angelisium#1997)
 
 [![stats][GitHubReadmeStats]][S1]
 
@@ -34,9 +35,10 @@ You can find me on : [Github][S1]  -  [GitLab][S2] - [CodePen][S3] - [npm][S4] -
 [S2]: https://gitlab.com/Angelisium
 [S3]: https://codepen.io/angelisium
 [S4]: https://www.npmjs.com/~angelisium
-[S5]: https://codesandbox.io/u/Angelisium
-[S6]: https://stackoverflow.com/users/14490630/angelisium
-[S7]: https://discord.gg/W9FTvaPD8b
+[S5]: https://packagist.org/users/Angelisium/
+[S6]: https://codesandbox.io/u/Angelisium
+[S7]: https://stackoverflow.com/users/14490630/angelisium
+[S8]: https://discord.gg/W9FTvaPD8b
 
 <!-----------------------------------------------------------------------------
  ! Other links :                                                              -
