@@ -16,7 +16,7 @@ Empty Format :
 
 # Projects
 ## Web
- - **[Soon] [2023] DeliA** [[Source](https://gitlab.com/Angelisium/delia/-/tree/version-2023)], (PHP8, Octave, SolidJS + Vite + Parcel, HTML5 & CSS3)
+ - **[2023] [DeliA](https://delia.angelisium.fr/)** [[Source](https://gitlab.com/Angelisium/delia/-/tree/version-2023)], (SolidJS, Vite, PowerShell, HTML5 & CSS3)
  : Main developer, Project leader.   
 *A webtoon / smartoon / 漫画 / 만화 player for my personal use.*
 
@@ -56,7 +56,7 @@ Empty Format :
  : Javascript developer.   
 *An React application to easily make calculations with percentages.*
 
- - **[2022] [DeliA](https://delia.angelisium.fr/)** [[Source](https://gitlab.com/Angelisium/delia/-/tree/main)], (PHP8, Octave, SQL, Vanilla JS, HTML5 & CSS3)
+ - **[2022] DeliA** [[Source](https://gitlab.com/Angelisium/delia/-/tree/main)], (PHP8, Octave, SQL, Vanilla JS, HTML5 & CSS3)
  : Main developer, Project leader.   
 *A webtoon / smartoon / 漫画 / 만화 player for my personal use.*
 
