@@ -1,8 +1,8 @@
 ### Hey ! ✌️
 
 > **Note**   
-> I currently learning [SolidJS][SolidJS], [leptos][leptos] and [Svelte][Svelte]
-> in self-taught on my free time.
+> I am currently  perfecting my knowledge of [SolidJS][SolidJS],  in self-taught
+> on my free time.
 
 I'm   Alexis  A.K.A.  Angelisium,  a   25  years   old [French developer][P1] <3
 
