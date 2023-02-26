@@ -1,8 +1,8 @@
 ### Hey ! ✌️
 
 > **Note**   
-> I am currently  perfecting my knowledge of [SolidJS][SolidJS],  in self-taught
-> on my free time.
+> I started to learn [Java][java] and [Spring][springboot], in self-taught on my
+> free time. I am also looking at [Gradle][gradle] and [Kotlin][kotlin] 👀.
 
 I'm   Alexis  A.K.A.  Angelisium,  a   25  years   old [French developer][P1] <3
 
@@ -43,8 +43,9 @@ You can find me on : [Github][S1]  -  [GitLab][S2] - [CodePen][S3] - [npm][S4] -
 <!-----------------------------------------------------------------------------
  ! Other links :                                                              -
  !----------------------------------------------------------------------------->
-[SolidJS]: https://www.solidjs.com/
-[leptos]: https://github.com/gbj/leptos
-[Svelte]: https://svelte.dev/
+[java]: https://dev.java/
+[springboot]: https://spring.io/
+[gradle]: https://gradle.org/
+[kotlin]: https://kotlinlang.org/
 
 [GitHubReadmeStats]: https://github-readme-stats.vercel.app/api?username=Angelisium&&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&theme=transparent
