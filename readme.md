@@ -1,8 +1,8 @@
 ### Hey ! ✌️
 
 > **Note**   
-> I started to learn [Java][java] and [Spring][springboot], in self-taught on my
-> free time. I am also looking at [Gradle][gradle] and [Kotlin][kotlin] 👀.
+> I started to learn [Kotlin][kotlin] and [Vert.x][vert.x], in self-taught on my
+> free time. I am also looking at [Gradle][gradle] 👀.
 
 I'm   Alexis  A.K.A.  Angelisium,  a   25  years   old [French developer][P1] <3
 
@@ -43,9 +43,8 @@ You can find me on : [Github][S1]  -  [GitLab][S2] - [CodePen][S3] - [npm][S4] -
 <!-----------------------------------------------------------------------------
  ! Other links :                                                              -
  !----------------------------------------------------------------------------->
-[java]: https://dev.java/
-[springboot]: https://spring.io/
-[gradle]: https://gradle.org/
 [kotlin]: https://kotlinlang.org/
+[vert.x]: https://vertx.io/
+[gradle]: https://gradle.org/
 
 [GitHubReadmeStats]: https://github-readme-stats.vercel.app/api?username=Angelisium&&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&theme=transparent
