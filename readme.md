@@ -20,6 +20,18 @@ You can find me on : [Github][S1]  -  [GitLab][S2] - [CodePen][S3] - [npm][S4] -
 
 [![stats][GitHubReadmeStats]][S1]
 
+#### Some "blog" posts I wrote recently :
+ - ??/03/2023 : Creating a bijective algorithm in base 26 (soon)
+([old first attempt](https://gitlab.com/-/snippets/2480344))
+ - ??/03/2023 : [AVM1 Bytecode cheat sheet][blog_avm1] (in progress)
+ - 27/02/2023 : [Bitwise manipulation cheat sheet][blog_binary]
+
+<!-----------------------------------------------------------------------------
+ ! Page links                                                                 -
+ !----------------------------------------------------------------------------->
+[blog_binary]: /blog/binary.md
+[blog_avm1]: /blog/avm1.md
+
 <!-----------------------------------------------------------------------------
  ! Page links                                                                 -
  !----------------------------------------------------------------------------->
