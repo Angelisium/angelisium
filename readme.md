@@ -5,7 +5,7 @@
 > I started to learn [Kotlin][kotlin] and [Vert.x][vert.x], in self-taught on my
 > free time. I am also looking at [Gradle][gradle] 👀. -->
 
-I'm   Alexis  A.K.A.  Angelisium,  a   25  years   old [French developer][P1] <3
+I'm   Alexis  A.K.A.  Angelisium,  a   26  years   old [French developer][P1] <3
 
 Individual contents  that I have  produced or contributed  to and I assume (+/-)
 can be found under [Projects][P4].
