@@ -13,6 +13,7 @@ Il existe deux types de Missions : +
 :m00: /resource/alphabounce/mission/0.png
 :m01: /resource/alphabounce/mission/1.png
 :m18: /resource/alphabounce/mission/18.png
+:m18z: /resource/alphabounce/screenshot/m18_zone.png
 [cols="4*^"]
 |===
   | Icône                | Nom des Missions                 | Objectifs                     | Récompenses
@@ -26,7 +27,7 @@ Il existe deux types de Missions : +
     *Débloqué par :* Le test d'entrée à l'ESCorp +
     *Débloque les missions :* Appel de détresse, Missile abandonné et Un nouveau générateur
   | image:{m18}[0,50,50] | Renvoi des enveloppes de secours | S'éloigner du secteur *[0;0]* | Vous perdez 3 enveloppes de secours.
-4+| Astuces : tant que vous restez dans un rayon de 6 zones autour du secteur *[0;0]*, vous ne perdez pas les 3 enveloppes de secours. +
+4+| Astuces : tant que vous restez dans link:{m18z}[un rayon de 6 zones autour du secteur *[0;0]*], vous ne perdez pas les 3 enveloppes de secours. +
     *Débloqué par :* Le test d'entrée à l'ESCorp
 //|                      |                                  |                               |
 |===
