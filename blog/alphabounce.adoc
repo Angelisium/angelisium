@@ -13,14 +13,21 @@ Il existe deux types de Missions : +
 
 // Links to icons, AsciiDoc references
 :m00: /resource/alphabounce/mission/0.png
+:m01: /resource/alphabounce/mission/1.png
 
 [cols="4*^"]
 |=== 
   | Icône                | Nom des Missions            | Objectifs                     | Récompenses
-  | image:{m00}[0,50,50] | Le test d'entrée à l'ESCorp | Nettoyer le secteur *[0;0]* | Vous pouvez vous déplacer.
+  | image:{m00}[0,50,50] | Le test d'entrée à l'ESCorp | Nettoyer le secteur *[0;0]*   | Vous pouvez vous déplacer.
 4+| Astuces : Les 3 enveloppes de secours seront retirées lorsque vous finirez la mission secrète "Renvoi des enveloppes de secours". +
     _Ne prenez donc pas l'habitude de jouer les casse-briques en les gaspillant._
 4+| Débloque les missions : La licence de forage, Des symboles étranges, Le médaillon Zonkérien, Renvoi des enveloppes de secours et <...>
+  | image:{m01}[0,50,50] | La licence de forage        | Récupéré les 3 accréditations | Balle de forage RCD-20
+4+| Astuces : L'accréditation Alpha est en *[0;-1]*, la Beta en *[2;1]* et la Céta en *[-1;1]*. Elles sont contenues dans les conglomérats mystères. +
+    Elles peuvent être récupérées dans n'importe quel ordre.
+4+| Débloqué par : Le test d'entrée à l'ESCorp +
+    Débloque les missions : Appel de détresse, Missile abandonné et Un nouveau générateur
+//|                      |                             |                               |
 |===
 
 Bientôt la suite image:https://cdn.discordapp.com/emojis/696389920230735973.webp[0,19,19]
