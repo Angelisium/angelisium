@@ -1,0 +1,32 @@
+# Alphabounce
+Author Name <angelisium@daum.net>
+v1.0, 2023-04-06
+
+## Les Missions
+// don't use a list, the github rendering is ugly
+Il existe deux types de Missions : +
+ - Les missions signalées, dont l'objectif et les récompenses sont plus ou moins clairement expliqué dans l'onglet Mission. +
+ - Les missions secrètes qui se dévoilent sous forme d'événement en jeu et dont la seule trace réside dans l'onglet "historique de mission".
+
+### Les missions signalées
+#### Missions d'apprentissage
+
+// Links to icons, AsciiDoc references
+:m00: /resource/alphabounce/mission/0.png
+
+[cols="4*^"]
+|=== 
+  | Icône                | Nom des Missions            | Objectifs                     | Récompenses
+  | image:{m00}[0,50,50] | Le test d'entrée à l'ESCorp | Nettoyer le secteur *[0;0]* | Vous pouvez vous déplacer.
+4+| Astuces : Les 3 enveloppes de secours seront retirées lorsque vous finirez la mission secrète "Renvoi des enveloppes de secours". +
+    _Ne prenez donc pas l'habitude de jouer les casse-briques en les gaspillant._
+4+| Débloque les missions : La licence de forage, Des symboles étranges, Le médaillon Zonkérien, Renvoi des enveloppes de secours et <...>
+|===
+
+Bientôt la suite image:https://cdn.discordapp.com/emojis/696389920230735973.webp[0,19,19]
+
+////
+MEMO sur les tables AsciiDoc :
+4+ => fusion horizontal de 4 cellule
+.4+ => fusion vertical de 4 cellule
+////
