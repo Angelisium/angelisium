@@ -62,7 +62,7 @@ Plus tard vous aurez vos propres choix à faire. Mais vous êtes cependant libre
     *Débloqué par :* Le test d'entrée à l'ESCorp +
     *Débloque les missions :* Appel de détresse, Missile abandonné et Un nouveau générateur
   | image:{m18}[0,50,50] | Renvoi des enveloppes de secours | S'éloigner du secteur *[0;0]* | Vous perdez 3 enveloppes de secours.
-4+| Astuces : tant que vous restez dans link:{m18z}[un rayon de 6 zones autour du secteur *[0;0]*], vous ne perdez pas les 3 enveloppes de secours. +
+4+| Astuces : tant que vous restez dans link:{m18z}[un rayon de 6 zones autour du secteur *[0;0\]*], vous ne perdez pas les 3 enveloppes de secours. +
     *Débloqué par :* Le test d'entrée à l'ESCorp
 //|                      |                                  |                               |
 |===
