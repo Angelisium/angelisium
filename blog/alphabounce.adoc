@@ -1,5 +1,5 @@
 # Alphabounce
-Author Name <angelisium@daum.net>
+Angelisium <angelisium@daum.net>
 v1.0, 2023-04-06
 
 ## Les Missions
@@ -8,26 +8,27 @@ Il existe deux types de Missions : +
  - Les missions signalées, dont l'objectif et les récompenses sont plus ou moins clairement expliqué dans l'onglet Mission. +
  - Les missions secrètes qui se dévoilent sous forme d'événement en jeu et dont la seule trace réside dans l'onglet "historique de mission".
 
-### Les missions signalées
-#### Missions d'apprentissage
-
+### Missions d'apprentissage
 // Links to icons, AsciiDoc references
 :m00: /resource/alphabounce/mission/0.png
 :m01: /resource/alphabounce/mission/1.png
-
+:m18: /resource/alphabounce/mission/18.png
 [cols="4*^"]
-|=== 
-  | Icône                | Nom des Missions            | Objectifs                     | Récompenses
-  | image:{m00}[0,50,50] | Le test d'entrée à l'ESCorp | Nettoyer le secteur *[0;0]*   | Vous pouvez vous déplacer.
+|===
+  | Icône                | Nom des Missions                 | Objectifs                     | Récompenses
+  | image:{m00}[0,50,50] | Le test d'entrée à l'ESCorp      | Nettoyer le secteur *[0;0]*   | Vous pouvez vous déplacer.
 4+| Astuces : Les 3 enveloppes de secours seront retirées lorsque vous finirez la mission secrète "Renvoi des enveloppes de secours". +
-    _Ne prenez donc pas l'habitude de jouer les casse-briques en les gaspillant._
-4+| Débloque les missions : La licence de forage, Des symboles étranges, Le médaillon Zonkérien, Renvoi des enveloppes de secours et <...>
-  | image:{m01}[0,50,50] | La licence de forage        | Récupéré les 3 accréditations | Balle de forage RCD-20
+    _Ne prenez donc pas l'habitude de jouer les casse-briques en les gaspillant._ +
+   *Débloque les missions :* La licence de forage, Des symboles étranges, Le médaillon Zonkérien, Renvoi des enveloppes de secours et <...>
+  | image:{m01}[0,50,50] | La licence de forage             | Récupéré les 3 accréditations | Balle de forage RCD-20
 4+| Astuces : L'accréditation Alpha est en *[0;-1]*, la Beta en *[2;1]* et la Céta en *[-1;1]*. Elles sont contenues dans les conglomérats mystères. +
-    Elles peuvent être récupérées dans n'importe quel ordre.
-4+| Débloqué par : Le test d'entrée à l'ESCorp +
-    Débloque les missions : Appel de détresse, Missile abandonné et Un nouveau générateur
-//|                      |                             |                               |
+    Elles peuvent être récupérées dans n'importe quel ordre. +
+    *Débloqué par :* Le test d'entrée à l'ESCorp +
+    *Débloque les missions :* Appel de détresse, Missile abandonné et Un nouveau générateur
+  | image:{m18}[0,50,50] | Renvoi des enveloppes de secours | S'éloigner du secteur *[0;0]* | Vous perdez 3 enveloppes de secours.
+4+| Astuces : tant que vous restez dans un rayon de 6 zones autour du secteur *[0;0]*, vous ne perdez pas les 3 enveloppes de secours. +
+    *Débloqué par :* Le test d'entrée à l'ESCorp
+//|                      |                                  |                               |
 |===
 
 Bientôt la suite image:https://cdn.discordapp.com/emojis/696389920230735973.webp[0,19,19]
