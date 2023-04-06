@@ -2,6 +2,7 @@
 Angelisium <angelisium@daum.net>
 v1.0, 2023-04-06
 
+////
 AlphaBounce, découvrez le premier jeu de casse-briques - aventure au monde ! +
 En l’année 16536, les prisons de l’empire inter-galactique débordent de détenus à perpétuité. Et vous en êtes un. +
 Croisement unique entre un casse-briques et un jeu d'aventure, AlphaBounce vous propose d’explorer un univers gigantesque composé de millions de niveaux captivants !
@@ -37,6 +38,7 @@ Plus tard vous aurez vos propres choix à faire. Mais vous êtes cependant libre
 // ### Atterrir
 // ### Niveau casse-briques
 // ### Lexique
+////
 ## Les Missions
 
 ### Missions d'apprentissage
