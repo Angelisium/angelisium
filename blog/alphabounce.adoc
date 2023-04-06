@@ -2,18 +2,51 @@
 Angelisium <angelisium@daum.net>
 v1.0, 2023-04-06
 
+AlphaBounce, découvrez le premier jeu de casse-briques - aventure au monde ! +
+En l’année 16536, les prisons de l’empire inter-galactique débordent de détenus à perpétuité. Et vous en êtes un. +
+Croisement unique entre un casse-briques et un jeu d'aventure, AlphaBounce vous propose d’explorer un univers gigantesque composé de millions de niveaux captivants !
+
+## Les bases du jeu
+
+### L'histoire
+En l'an 16536, les prisons de l'empire inter-galactique débordent de détenus à perpétuité.
+
+Les ressources nécessaires à l'entretien du milieu carcéral sont telles que les détenus ont obligation de travailler. Ceux qui refusent sont éliminés. Parmi les différentes tâches proposées, la plus dangereuse et la plus humiliante permet d'obtenir une remise de peine. Ce travail, c'est celui de mineur galactique pour le compte de l'ESCorp.
+
+Ces prisonniers volontaires sont enchainés dans des enveloppes minières, des vaisseaux inter-stellaires disposant de la technologie nécessaire à la destruction de parasites spatiaux ainsi qu'à l'extraction de minerais rares. Les enveloppes sont lancées dans l'espace infini et les détenus n'ont d'autre compagnie que celle des rares marchands extra-terrestres et celle des communications inter-détenus.
+
+### But du jeu
+Dans un premier temps, le but du jeu est d'explorer l'espace afin de faire du nettoyage de zone pour le compte de l'ESCorp, tout en récoltant du minerai pour son propre compte, et en améliorant son vaisseau. De nombreuses quêtes annexes et explorations planétaires contribuent à l'évolution du joueur. Les nettoyages de zone deviendront alors très secondaires. Mais la base de ce jeu sont les niveaux de casse-briques. Se déplacer, explorer, trouver du minerai ou un objet, accomplir une mission… presque tout repose sur eux. Ils reprennent les principes du jeu de “casse-briques” classique. Il faut faire rebondir une balle sans la faire tomber, afin de détruire toutes les briques du niveau. Dans AlphaBounce le principe est étoffé par des types de briques, de balles, de bonus et d'équipements très différents, le tout dans une ambiance spatiale futuriste.
+
+Vous pouvez retrouver la première version d'AlphaBounce sur link:https://kadokado.angelisium.fr/game/40/play[KadoKado].
+
+### Se mouvoir dans l'espace zonkérien
+L'EScorporation vous a largué dans l'espace zonkérien, cette étendue mystérieuse et infinie. Infinie oui, mais à quoi bon si on ne peut pas se déplacer ? +
+Après avoir effectué votre première mission, vous serez capable de quitter le secteur d'origine **[0;0]** et de vous mouvoir dans l'espace. A vous l'exploration de cet espace infini, et plus si affinités !! +
+Il faut savoir que cet espace à explorer est immense. Il est à priori impossible pour un seul joueur de l'explorer en intégralité.
+
+Pour vous déplacer, cliquez sur l'un des secteurs qui clignotent en vert autour de votre enveloppe (_vaisseau_). +
+Pour vous mouvoir jusqu'au secteur sélectionné, il faut réussir le forage des conglomérats (_briques_) de ce secteur . +
+Si vous échouez le niveau casse-briques, vous restez sur votre ancienne position, il vous faudra retenter un nouveau déplacement, sur ce secteur ou bien un autre.
+
+Chaque tentative de déplacement effectuée coûte une capsule d'hydrogène (_une partie de casse-briques_).
+
+Au début vous n'aurez d'autre choix que de suivre les instructions de l'EScorps et de réaliser les missions qu'ils vous confient, afin d'obtenir les améliorations de votre enveloppe. +
+Plus tard vous aurez vos propres choix à faire. Mais vous êtes cependant libre dès le début de donner la priorité à une mission plutôt qu'à une autre, ou bien d'en profiter pour vous balader un peu dans l'espace, explorer des planètes, récupérer du matériel, trouver le marchand le moins gourmand…
+
+// ### Atterrir
+// ### Niveau casse-briques
+// ### Lexique
 ## Les Missions
-// don't use a list, the github rendering is ugly
-Il existe deux types de Missions : +
- - Les missions signalées, dont l'objectif et les récompenses sont plus ou moins clairement expliqué dans l'onglet Mission. +
- - Les missions secrètes qui se dévoilent sous forme d'événement en jeu et dont la seule trace réside dans l'onglet "historique de mission".
 
 ### Missions d'apprentissage
+
 // Links to icons, AsciiDoc references
 :m00: /resource/alphabounce/mission/0.png
 :m01: /resource/alphabounce/mission/1.png
 :m18: /resource/alphabounce/mission/18.png
 :m18z: /resource/alphabounce/screenshot/m18_zone.png
+
 [cols="4*^"]
 |===
   | Icône                | Nom des Missions                 | Objectifs                     | Récompenses
