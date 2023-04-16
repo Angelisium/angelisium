@@ -1,8 +1,10 @@
 ### Hey ! ✌️
 
+<!-----------------------------------------------------------------------------
 > **Note**   
 > I started to learn [Verset][VRS] for [Unreal Editor][UE], in self-taught on my
 > free time.
+>!----------------------------------------------------------------------------->
 
 I'm   Alexis  A.K.A.  Angelisium,  a   26  years   old [French developer][P1] <3
 
