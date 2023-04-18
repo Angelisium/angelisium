@@ -1,7 +1,6 @@
 ### Hey ! ✌️
 
 > **Note**   
- !----------------------------------------------------------------------------->
 > I am looking for a  work-study program to obtain the  professional certificate
 > [RNCP36163][netops] (NetOps) or [RNCP36061][devops] (DevOps).
 
