@@ -1,10 +1,9 @@
 ### Hey ! ✌️
 
-<!-----------------------------------------------------------------------------
 > **Note**   
-> I started to learn [Verset][VRS] for [Unreal Editor][UE], in self-taught on my
-> free time.
->!----------------------------------------------------------------------------->
+ !----------------------------------------------------------------------------->
+> I am looking for a  work-study program to obtain the  professional certificate
+> [RNCP36163][netops] (NetOps) or [RNCP36061][devops] (DevOps).
 
 I'm   Alexis  A.K.A.  Angelisium,  a   26  years   old [French developer][P1] <3
 
@@ -59,5 +58,7 @@ You can find me on : [Github][S1]  -  [GitLab][S2] - [CodePen][S3] - [npm][S4] -
  !----------------------------------------------------------------------------->
 [UE]: https://dev.epicgames.com/documentation/en-us/uefn/unreal-editor-for-fortnite-documentation
 [VRS]: https://dev.epicgames.com/documentation/en-us/uefn/verse-language-reference
+[netops]: https://www.francecompetences.fr/recherche/rncp/36163/
+[devops]: https://www.francecompetences.fr/recherche/rncp/36061/
 
 [GitHubReadmeStats]: https://github-readme-stats.vercel.app/api?username=Angelisium&&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&theme=transparent
