@@ -1,3 +1,4 @@
+*Credit of my profile picture : Frieke Janssens - [Smoking Kids][smokekid].*
 ### Hey ! ✌️
 
 > **Note**   
@@ -59,5 +60,6 @@ You can find me on : [Github][S1]  -  [GitLab][S2] - [CodePen][S3] - [npm][S4] -
 [VRS]: https://dev.epicgames.com/documentation/en-us/uefn/verse-language-reference
 [netops]: https://www.francecompetences.fr/recherche/rncp/36163/
 [devops]: https://www.francecompetences.fr/recherche/rncp/36061/
+[smokekid]: https://frieke.com/smoking-kids/
 
 [GitHubReadmeStats]: https://github-readme-stats.vercel.app/api?username=Angelisium&&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&theme=transparent
