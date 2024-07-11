@@ -32,3 +32,10 @@ You can find me on : [Github][S1]  -  [GitLab][S2] - [CodePen][S3] - [npm][S4] -
 [S6]: https://codesandbox.io/u/Angelisium
 [S7]: https://stackoverflow.com/users/14490630/angelisium
 [S8]: https://discord.gg/W9FTvaPD8b
+
+<!-----------------------------------------------------------------------------
+ ! Blog pages links                                                           -
+ !----------------------------------------------------------------------------->
+ [B1]: /blog/b64.md
+ [B1]: /blog/avm1.md
+ [B1]: /blog/binary.md
